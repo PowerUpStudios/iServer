@@ -7,7 +7,7 @@ Made by Power Up Studio
 
 # Setup
 
-Firstly, you need to create a "server" folder and an "index.html" file inside (like in replit HTML projects)
+Firstly, you need to create a "server" folder and an "index.html" file inside
 
 Then, write you HTML code inside "index.html"
 
