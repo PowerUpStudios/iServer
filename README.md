@@ -3,7 +3,7 @@ iServer is a powerful node.js library for making HTML websites
 
 You can use it to easly create a website with node.js
 
-Power Up Studio 2021 --- All rights reserved
+Made by Power Up Studio
 
 # Setup
 
